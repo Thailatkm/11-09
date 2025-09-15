@@ -8,3 +8,10 @@ TABELA FUNCIONARIOS
 
 TABELA EMPRESTIMO
 [imagem](./image.png)
+
+Normalização e Desnormalização usando DDL
+[imagem](./Captura%20de%20tela%202025-09-14%20221119.png)
+[imagem](./Captura%20de%20tela%202025-09-14%20221138.png)
+[imagem](./Imagem%20sem%20título.png)
+[imagem](./Imagem%20sem%20título(2).png)
+[imagem](./Imagem%20sem%20título(3).png)
